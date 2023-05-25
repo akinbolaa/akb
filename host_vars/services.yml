@@ -66,6 +66,54 @@ services:
   udp-1433:
     type: udp
     number: 1433
-  
-  
-    
+  tcp-55555:
+    type: tcp
+    number: 55555
+  tcp-3389:
+    type: tcp
+    number: 3389
+  udp-500:
+    type: udp
+    number: 500
+  udp-4500:
+    type: udp
+    number: 4500
+  tcp-1434:
+    type: tcp
+    number: 1434
+  udp-1434:
+    type: tcp
+    number: 1434
+  tcp-8649:
+    type: tcp
+    number: 8649
+  udp-8649:
+    type: udp
+    number: 8649
+  tcp-84:
+    type: tcp
+    number: 84
+  tcp-87:
+    type: tcp
+    number: 87
+  tcp-5985:
+    type: tcp
+    number: 5985  
+  tcp-61234:
+    type: tcp
+    number: 61234
+  tcp-49670:
+    type: tcp
+    number: 49670  
+  tcp-8081:
+    type: tcp
+    number: 8081
+  tcp-8082:
+    type: tcp
+    number: 8082 
+  tcp-8089:
+    type: tcp
+    number: 8089
+  tcp-9418:
+    type: tcp
+    number: 9418  
