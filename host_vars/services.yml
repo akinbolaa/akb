@@ -1,0 +1,71 @@
+---
+services:
+  tcp-9997:
+    type: tcp
+    number: 9997
+  tcp-25:
+    type: tcp
+    number: 25
+  tcp-14505:
+    type: tcp
+    number: 14505
+  tcp-9200:
+    type: tcp
+    number: 9200
+  tcp-9300:
+    type: tcp
+    number: 9300
+  udp-6379:
+    type: udp
+    number: 6379
+  udp-514:
+    type: udp
+    number: 514
+  udp-515:
+    type: udp
+    number: 515
+  tcp-14503:
+    type: tcp
+    number: 14503
+  tcp-14505-14509:
+    type: tcp
+    number: 14505-14509
+  tcp-445:
+    type: tcp
+    number: 445
+  tcp-139:
+    type: tcp
+    number: 139
+  udp-14503:
+    type: udp
+    number: 14503
+  tcp-9090:
+    type: tcp
+    number: 9090
+  tcp-64321:
+    type: tcp
+    number: 64321
+  tcp-1433:
+    type: tcp
+    number: 1433
+  tcp-8000:
+    type: tcp
+    number: 8000
+  udp-135-139:
+    type: udp
+    number: 135-139
+  tcp-135-139:
+    type: tcp
+    number: 135-139
+  udp-161:
+    type: udp
+    number: 161
+  tcp-8002:
+    type: tcp
+    number: 8002
+  udp-1433:
+    type: udp
+    number: 1433
+  
+  
+    

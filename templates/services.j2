@@ -1,0 +1,4 @@
+{% for service_name, service_port in services.items() %}
+set device-group shared {{ service_name }} protocol {{ service_port.type }} port {{ service_port.number }}
+set device-group shared {{ service_name }} protocol {{ service_port.type }} override no
+{% endfor %}

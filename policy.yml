@@ -1,0 +1,8 @@
+---
+  - hosts: services
+    connection: local
+    tasks:
+      - name: generate tcp ports
+        template:
+          src: "templates/services.j2"
+          dest: "config/{{ inventory_hostname }}.cfg"
