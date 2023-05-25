@@ -204,6 +204,9 @@ services:
   udp-445:
     type: udp 
     number: 445
+  udp-65000:
+    type: tcp-udp
+    number: 65000
   
   
   
