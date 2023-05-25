@@ -116,4 +116,94 @@ services:
     number: 8089
   tcp-9418:
     type: tcp
-    number: 9418  
+    number: 9418
+  tcp-6789:
+    type: tcp
+    number: 6789
+  tcp-8080:
+    type: tcp
+    number: 8080 
+  tcp-389: 
+    type: tcp 
+    number: 389
+  tcp-3010:
+    type: tcp 
+    number: 3010
+  tcp-3002:
+    type: tcp 
+    number: 3002
+  tcp-5432:
+    type: tcp 
+    number: 5432
+  tcp-2049:
+    type: tcp 
+    number: 2049
+  tcp-111:
+    type: tcp 
+    number: 111
+  tcp-49152-49156:
+    type: tcp 
+    number: 49152-49156
+  tcp-24007-24008:
+    type: tcp 
+    number: 24007-24008  
+  tcp-3050:
+    type: tcp 
+    number: 3050
+  tcp-7050:
+    type: tcp 
+    number: 7050
+  tcp-10050:
+    type: tcp 
+    number: 10050
+  tcp-11050:
+    type: tcp 
+    number: 11050
+  tcp-7060:
+    type: tcp 
+    number: 7060
+  tcp-10000:
+    type: tcp 
+    number: 10000
+  tcp-10001:
+    type: tcp 
+    number: 10001
+  tcp-11111:
+    type: tcp 
+    number: 11111
+  tcp-11112:
+    type: tcp 
+    number: 11112
+  tcp-3051:
+    type: tcp 
+    number: 3051
+  tcp-88:
+    type: tcp 
+    number: 88
+  udp-88:
+    type: udp 
+    number: 88
+  udp-123:
+    type: udp 
+    number: 123
+  tcp-3268-3269:
+    type: tcp 
+    number: 3268-3269
+  tcp-464:
+    type: tcp 
+    number: 464
+  udp-464:
+    type: udp 
+    number: 464
+  udp-389:
+    type: udp 
+    number: 389
+  udp-137:
+    type: udp 
+    number: 137
+  udp-445:
+    type: udp 
+    number: 445
+  
+  
+  
