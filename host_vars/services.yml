@@ -204,6 +204,126 @@ services:
   udp-445:
     type: udp 
     number: 445
+  tcp-9092:
+    type: tcp
+    number: 9092
+  tcp-2181:
+    type: tcp
+    number: 2181
+  tcp-21: 
+    type: tcp 
+    number: 21
+  tcp-5601:
+    type: tcp 
+    number: 5601
+  udp-69: 
+    type: udp 
+    number: 69
+  tcp-8060:
+    type: tcp 
+    number: 8060 
+  tcp-3306:
+    type: tcp 
+    number: 3306
+  tcp-6379:
+    type: tcp 
+    number: 6379
+  tcp-26379:
+    type: tcp 
+    number: 26379
+  tcp-6380:
+    type: tcp 
+    number: 6380
+  tcp-10933:
+    type: tcp 
+    number: 10933
+  type-5432:
+    type: tcp
+    number: 5432
+  type-5046:
+    type: tcp
+    number: 5046
+  type-64321:
+    type: tcp
+    number: 64321
+  type-8765:
+    type: tcp
+    number: 8765
+  type-9008:
+    type: tcp
+    number: 9008
+  type-9200:
+    type: tcp
+    number: 9200
+  type-9300:
+    type: tcp
+    number: 9300
+  type-27017:
+    type: tcp
+    number: 27017
+  type-8089:
+    type: tcp
+    number: 8089
+  type-20004:
+    type: tcp
+    number: 20004
+  type-6359:
+    type: tcp
+    number: 6359
+  type-8081:
+    type: tcp
+    number: 8081
+  type-5672:
+    type: tcp
+    number: 5672
+  type-8082:
+    type: tcp
+    number: 8082
+  type-9050:
+    type: tcp
+    number: 9050
+  type-6379:
+    type: tcp
+    number: 6379
+  tcp-9000:
+    type: tcp 
+    number: 9000
+  udp-14505:
+    type: udp
+    number: 14505
+  tcp-6667:
+    type: tcp
+    number: 6667
+  tcp-10516:
+    type: tcp
+    number: 10516
+  tcp-2888:
+    type: tcp
+    number: 2888
+  tcp-3888:
+    type: tcp
+    number: 3888
+  tcp-9998-9999:
+    type: tcp
+    number: 9998-9999
+  tcp-5120:
+    type: tcp
+    number: 5120
+  tcp-5123:
+    type: tcp
+    number: 5123
+  tcp-5900-5901:
+    type: tcp
+    number: 5900-5901
+  tcp-623: 
+    type: tcp 
+    number: 623
+  
+  
+
+
+
+
   
   
   
