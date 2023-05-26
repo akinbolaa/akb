@@ -4,5 +4,5 @@
     tasks:
       - name: generate tcp ports
         template:
-          src: "templates/services.j2"
+          src: "templates/addresses.j2"
           dest: "config/{{ inventory_hostname }}.cfg"
