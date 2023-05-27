@@ -56,3 +56,19 @@
       ipv4_desc:
       range: absent 
       ipv4_mask: 184.169.153.220/32
+    host_192.5.11.10:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 192.5.11.10/32
+    host_192.168.0.128:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 192.168.0.128/32
+    host_192.5.11.60:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 192.5.11.60/32
+    host_192.168.0.24:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 192.168.0.24/32
