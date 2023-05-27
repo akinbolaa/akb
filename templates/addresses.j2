@@ -1,4 +1,8 @@
 {% for address_name, address_value in ipv4_address.items() %}
+{% if address_value.range == "absent" %}
 set shared address {{ address_name }} ip-netmask {{ address_value.ipv4_mask }}
-set shared address {{ address_name }} ip-netmask disable-override no
+{% endif %}
+{% if address_value.range == "present" %}
+set shared address {{ address_name }} ip-range {{ address_value.ipv4_mask }}
+{% endif %}
 {% endfor %}
