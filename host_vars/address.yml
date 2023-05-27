@@ -51,4 +51,69 @@
     host_192.168.0.75:
       ipv4_desc:
       ipv4_mask: 192.168.0.75/32
-  
+    host_10.1.0.75:
+      ipv4_desc:
+      ipv4_mask: 10.1.0.75
+    host_10.1.0.40:
+      ipv4_desc:
+      ipv4_mask: 10.1.0.40/32
+    host_10.1.0.42:
+      ipv4_desc:
+      ipv4_mask: 10.1.0.42/32
+    host_10.2.0.64:
+      ipv4_desc:
+      ipv4_mask: 10.2.0.64/32
+    host_10.1.0.31:
+      ipv4_desc:
+      ipv4_mask: 10.1.0.31/32
+    host_10.2.0.223:
+      ipv4_desc:
+      ipv4_mask: 10.2.0.223/32
+    host_92.168.0.51:
+      ipv4_desc:
+      ipv4_mask: 192.168.0.51/32
+    host_10.2.0.64:
+      ipv4_desc:
+      ipv4_mask: 10.2.0.64/32
+    host_10.5.4.84:
+      ipv4_desc:
+      ipv4_mask: 10.5.4.84/32
+    host_10.2.0.10:
+      ipv4_desc:
+      ipv4_mask: 10.2.0.10/32
+    net_192.168.20.0_24:
+      ipv4_desc:
+      ipv4_mask: 192.168.20.0/24
+    host_10.5.105:
+      ipv4_desc:
+      ipv4_mask: 10.5.0.105/32
+    host_10.1.0.106:
+      ipv4_desc:
+      ipv4_mask: 10.5.0.106/32
+    host_192.168.254.105:
+      ipv4_desc:
+      ipv4_mask: 192.168.254.105/32
+    nat_192.5.11.25:
+      ipv4_desc:
+      ipv4_mask: 192.5.11.25/32
+    host_10.2.0.28:
+      ipv4_desc:
+      ipv4_mask: 10.2.0.28/32
+    host_10.2.0.27:
+      ipv4_desc:
+      ipv4_mask: 10.2.0.27/32
+    nat_192.5.11.61:
+      ipv4_desc:
+      ipv4_mask: 192.5.11.61/32
+    host_192.168.0.19:
+      ipv4_desc:
+      ipv4_mask: 192.168.0.19/32
+    host_52.0.2.4:
+      ipv4_desc:
+      ipv4_mask: 52.0.2.4/32
+    nat_192.5.11.7:
+      ipv4_desc:
+      ipv4_mask: 192.5.11.7/32
+    host_10.2.0.8:
+      ipv4_desc:
+      ipv4_mask: 10.2.0.8/32
