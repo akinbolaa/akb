@@ -72,3 +72,15 @@
       ipv4_desc:
       range: absent 
       ipv4_mask: 192.168.0.24/32
+    iprange_10.111.0.0-10.112.0.0:
+      ipv4_desc:
+      range: present  
+      ipv4_mask: 10.111.0.0-10.112.0.0
+    net_10.44.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.44.0.0/16
+    net_10.139.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.139.0.0/16
