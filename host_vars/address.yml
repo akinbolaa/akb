@@ -296,3 +296,15 @@
       ipv4_desc:
       range: absent
       ipv4_mask: 10.50.100.113/32
+    AWS-Prod-TCBuildAgent01-dwonly:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.1.242/32
+    AWS-Prod-VPC:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.0.0/16
+    AWS-Prod-answer-serviceECScluster:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.215.80/32
