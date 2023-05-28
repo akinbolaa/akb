@@ -348,3 +348,11 @@
       ipv4_desc:
       range: absent
       ipv4_mask: 52.11.210.8/32
+    ext_54.190.155.64:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 54.190.155.64/32
+    ext_34.215.242.251:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 34.215.242.251/32
