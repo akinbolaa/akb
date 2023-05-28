@@ -84,3 +84,55 @@
       ipv4_desc:
       range: absent 
       ipv4_mask: 10.139.0.0/16
+    net_10.33.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.33.0.0/16
+    net_10.60.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.60.0.0/16
+    net_10.55.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.55.0.0/16
+    net_10.50.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.50.0.0/16
+    net_172.17.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 172.17.0.0/16
+    net_172.31.0.0_16:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 172.31.0.0/16
+    prodSAN01:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.1.0.40/32
+    prodSAN02:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.1.0.42/32
+    drsan01:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.10.0.40/32
+    drsan02:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.10.0.42/32
+    host_10.5.0.112:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.5.0.112/32
+    host_10.5.0.119:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.5.0.119/32
+    host_10.5.0.194:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.5.0.194/32
