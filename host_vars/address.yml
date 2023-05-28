@@ -356,3 +356,61 @@
       ipv4_desc:
       range: absent
       ipv4_mask: 34.215.242.251/32
+    ext_66.192.28.194:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 66.192.28.194/32
+    ext_70.88.75.93:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 70.88.75.93/32
+    ext_142.196.225.64:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 142.196.225.64/32
+    ext_12.132.129.254:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 12.132.129.254/32
+    ext_208.146.42.96_28:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 208.146.42.96/28
+    ext_112.101.64.146:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 112.101.64.146/32
+    ext_123.164.66.66:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 123.164.66.66/32
+    ext_87.22.242.43:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 87.22.242.43/32
+    ext_82.91.75.35:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 82.91.75.35/32
+    ext_217.174.56.114:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 217.174.56.114/32
+    ext_172.56.33.142:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 172.56.33.142/32
+    ext_172.58.43.189:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 172.58.43.189/32
+    ext_50.233.250.57:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 50.233.250.57/32
+    ext_150.70.173.0_24:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 150.70.173.0/24
+    
+    
