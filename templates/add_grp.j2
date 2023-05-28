@@ -1,0 +1,3 @@
+{% for add_grp_name, add_grp_value in ipv4_add_grp.items() %}
+set shared address-group  {{ address_name }} ip-netmask {{ address_value.ipv4_mask }}
+{% endfor %}
