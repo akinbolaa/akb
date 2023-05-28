@@ -308,3 +308,43 @@
       ipv4_desc:
       range: absent
       ipv4_mask: 10.55.215.80/32
+    AWS-Prod-demosite:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.8.0/24
+    AWS-Prod-dw-ssh-server-0:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.0.4/32
+    AWS-Prod-es-insight-demo:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.8.126/32
+    AWS-bizcont-IndexAnswerServiceSQLDumper:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.100.255/32
+    AWS-bizcont-Teamcity:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.50.100.108/32
+    AWS-bizcont-VPC:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.50.0.0/16
+    AWS-dev_shared-VPC:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.60.0.0/16
+    ext_44.233.51.159:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 44.233.51.159/32
+    ext_34.217.204.191:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 34.217.204.191/32
+    ext_52.11.210.8:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 52.11.210.8/32
