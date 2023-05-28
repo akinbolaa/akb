@@ -176,3 +176,103 @@
       ipv4_desc:
       range: absent
       ipv4_mask: 10.16.0.99/32
+    splunk01:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 192.168.0.164/32
+    snakewrangler:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.16.32.82/32
+    sftp-sea:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 192.168.0.81/32
+    ext_5.152.185.128_26:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 5.152.185.128/26
+    ext_8.19.118.0_24:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 8.19.118.0/24
+    ext_5.152.185.125:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 5.152.185.125/32
+    ext_8.31.233.0_24:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 8.31.233.0/24
+    ext_72.32.252.0_24:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 72.32.252.0/24
+    ext_74.205.4.0_24:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 74.205.4.0/24
+    ext_207.97.230.0_24:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 207.97.230.0/24
+    ext_207.97.242.0_24:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 207.97.242.0/24
+    ext_69.20.58.226:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 69.20.58.226/32
+    ext_69.20.68.133:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 69.20.68.133/32
+    ext_207.97.224.142:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 207.97.224.142/32
+    ext_207.97.229.125:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 207.97.229.125/32
+    ext_8.31.223.196:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 8.31.223.196/32
+    ext_92.52.89.74:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 92.52.89.74/32
+    ext_72.32.253.10:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 72.32.253.10/32
+    ext_72.32.252.97:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 72.32.252.97/32
+    ext_69.20.60.122:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 69.20.60.122/32
+    ext_69.20.58.234:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 69.20.58.234/32
+    ext_72.32.253.39:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 72.32.253.39/32
+    ext_98.129.58.235:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 98.129.58.235/32
+    ext_67.192.226.128_26:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 67.192.226.128/26
+    ext_174.143.49.64_26:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 174.143.49.64/26
