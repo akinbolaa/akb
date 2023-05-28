@@ -148,3 +148,31 @@
       ipv4_desc:
       range: absent
       ipv4_mask: 10.10.0.44/32
+    host_test_postgres:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 172.31.13.41/32
+    testdb02:
+      ipv4_desc:
+      range: present  
+      ipv4_mask: 10.10.0.14-10.10.0.20
+    host_10.5.0.198:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.5.0.198/32
+    host_10.5.0.52:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.5.0.52/32
+    tab1-prod-sea:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 192.168.0.82/32
+    host_10.16.0.180:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.16.0.180/32
+    host_10.16.0.99:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.16.0.99/32
