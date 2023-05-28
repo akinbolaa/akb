@@ -276,3 +276,23 @@
       ipv4_desc:
       range: absent
       ipv4_mask: 174.143.49.64/26
+    AWS-InsightLab-DEV-LAN:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 172.31.200.0/24
+    AWS-Prod-AdminWeb-Insight-demo-0:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.58.8.120/32
+    AWS-Prod-ECS-subnet:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.55.128.0/17
+    host_10.50.100.43:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.50.100.43/32
+    host_10.50.100.113:
+      ipv4_desc:
+      range: absent
+      ipv4_mask: 10.50.100.113/32
