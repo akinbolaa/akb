@@ -1,33 +1,25 @@
 ---
   ipv4_address:
-    host_23.23.157.152:
+    host_10.100.0.252:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 23.23.157.152/32
-    host_23.23.157.244:
+      ipv4_mask: 10.100.0.252/32
+    host_10.100.0.253:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 23.23.157.244/32
-    host_54.225.68.137:
+      ipv4_mask: 10.100.0.253/32
+    CaryOffice-Networks:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 54.225.68.137/32   
-    host_54.225.53.148:
+      ipv4_mask: 10.120.0.0/20
+    CaryDCNet:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 54.225.53.148/32 
-    host_23.23.159.203:
+      ipv4_mask: 192.168.255.0/24
+    '"Contractors Session Host"':
       ipv4_desc:
       range: absent 
-      ipv4_mask: 23.23.159.203/32
-    '"CDAT LAB instance"':
-      ipv4_desc:
-      range: absent 
-      ipv4_mask: 192.168.254.23/32
-    CZCONCONTR001:
-      ipv4_desc:
-      range: absent 
-      ipv4_mask: 192.168.23.37/32
+      ipv4_mask: 192.168.254.105/32
   ipv4_add_grp:
-    BuzzStreamSvrs:  
-      ipv4_add: 'host_23.23.157.152 host_23.23.157.244 host_54.225.68.137 host_54.225.53.148 host_23.23.159.203'
+    CoreSwitches-Aruba:  
+      ipv4_add: 'host_10.100.0.252 host_10.100.0.253'
