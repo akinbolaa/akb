@@ -1,30 +1,33 @@
 ---
   ipv4_address:
-    host_10.1.0.252:
+    host_23.23.157.152:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 10.1.0.252/32
-    host_10.1.0.253:
+      ipv4_mask: 23.23.157.152/32
+    host_23.23.157.244:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 10.1.0.253/32
-    host_10.2.0.65:
+      ipv4_mask: 23.23.157.244/32
+    host_54.225.68.137:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 10.2.0.65/32   
-    host_10.16.0.252:
+      ipv4_mask: 54.225.68.137/32   
+    host_54.225.53.148:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 10.16.0.252/32 
-    host_10.5.0.11:
+      ipv4_mask: 54.225.53.148/32 
+    host_23.23.159.203:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 10.5.0.11/32
-    host_192.168.0.245:
+      ipv4_mask: 23.23.159.203/32
+    CDAT LAB instance:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 192.168.0.245/32
+      ipv4_mask: 192.168.254.23/32
+    CZCONCONTR001:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 192.168.23.37/32
   ipv4_add_grp:
-      BackupServers:  
-        ipv4_add: 'host_10.1.0.252 host_10.1.0.253 host_10.2.0.65 host_10.16.0.252 host_10.5.0.11 host_192.168.0.245'
-
+    BuzzStreamSvrs:  
+      ipv4_add: 'host_23.23.157.152 host_23.23.157.244 host_54.225.68.137 host_54.225.53.148 host_23.23.159.203'
