@@ -19,8 +19,12 @@
     host_10.5.0.9:
       ipv4_desc:
       range: absent 
-      ipv4_mask: 10.5.0.7/32
+      ipv4_mask: 10.5.0.9/32
     host_10.5.0.7:
       ipv4_desc:
       range: absent 
       ipv4_mask: 10.5.0.7/32
+    hqwsus01:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.5.0.100/32
