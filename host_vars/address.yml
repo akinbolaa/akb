@@ -20,7 +20,7 @@
       ipv4_desc:
       range: absent 
       ipv4_mask: 23.23.159.203/32
-    "CDAT LAB instance":
+    '"CDAT LAB instance"':
       ipv4_desc:
       range: absent 
       ipv4_mask: 192.168.254.23/32
