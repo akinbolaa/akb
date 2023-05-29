@@ -6,6 +6,6 @@ set shared address {{ address_name }} ip-netmask {{ address_value.ipv4_mask }}
 set shared address {{ address_name }} ip-range {{ address_value.ipv4_mask }}
 {% endif %}
 {% endfor %}
-{% for add_grp_name in ipv4_add_grp %}
-set shared address-group {{ add_grp_name }} static [ {{ipv4_add_grp[add_grp_name] }} ]
+{% for add_grp_name, add_grp_value in ipv4_add_grp.items() %}
+set shared address-group {{ add_grp_name }} static [ {{add_grp_value.ipv4_add }} ]
 {% endfor %}

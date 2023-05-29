@@ -25,12 +25,6 @@
       range: absent 
       ipv4_mask: 192.168.0.245/32
   ipv4_add_grp:
-    ipv4_add-1: 'host_10.1.0.252'
-    ipv4_add-2: 'host_10.1.0.253'
-    ipv4_add-3: 'host_10.2.0.65'
-    ipv4_add-4: 'host_10.16.0.252'
-    ipv4_add-5: 'host_10.5.0.11'
-    ipv4_add-6: 'host_192.168.0.245:'
-    
-
+      BackupServers:  
+        ipv4_add: 'host_10.1.0.252 host_10.1.0.253 host_10.2.0.65 host_10.16.0.252 host_10.5.0.11 host_192.168.0.245'
 
