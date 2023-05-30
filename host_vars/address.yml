@@ -90,4 +90,4 @@
     EventTracker-AzureWebApp-IPs:  
       ipv4_add: 'ext_40.112.243.5 ext_168.61.67.173 ext_137.117.16.243 ext_104.42.125.202 ext_104.42.125.202'
     Filers:  
-      ipv4_add: 'host_10.1.0.40 host_10.1.0.42 host_10.1.0.Deploy-Gatekeeper host_10.5.0.100 host_10.5.0.123 host_10.5.0.20 drsan01 drsan02'
+      ipv4_add: 'host_10.1.0.40 host_10.1.0.42 Deploy-Gatekeeper host_10.5.0.100 host_10.5.0.123 host_10.5.0.20 drsan01 drsan02'
