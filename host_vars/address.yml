@@ -20,6 +20,74 @@
       ipv4_desc:
       range: absent 
       ipv4_mask: 192.168.254.105/32
+    DSC-Linux-Server:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.5.3.180/32
+    net_10.0.8.0_24:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.0.8.0/24
+    net_10.0.1.0_24:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.0.1.0/24
+    net_10.0.2.0_24:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.0.2.0/24
+    net_10.0.0.0_24:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.0.0.0/24
+    host_10.5.0.227:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.5.0.227/32
+    host_10.5.0.100:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.5.0.100/32
+    host_10.5.0.20:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.5.0.20/32
+    host_10.5.0.123:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.5.0.123/32
+    ext_40.112.243.5:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 40.112.243.5/32
+    ext_168.61.67.173:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 168.61.67.173/32
+    ext_137.117.16.243:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 137.117.16.243/32
+    ext_23.100.47.193:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 23.100.47.193/32
+    ext_104.42.125.202:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 104.42.125.202/32
+    Deploy-Gatekeeper:
+      ipv4_desc:
+      range: absent 
+      ipv4_mask: 10.5.0.235/32
   ipv4_add_grp:
     CoreSwitches-Aruba:  
       ipv4_add: 'host_10.100.0.252 host_10.100.0.253'
+    DenverSubnets:  
+      ipv4_add: 'net_10.0.8.0_24 net_10.0.1.0_24 net_10.0.0.0_24 net_10.0.2.0_24'
+    DeplSrvs:  
+      ipv4_add: 'Deploy-Gatekeeper host_10.5.0.227'
+    EventTracker-AzureWebApp-IPs:  
+      ipv4_add: 'ext_40.112.243.5 ext_168.61.67.173 ext_137.117.16.243 ext_104.42.125.202 ext_104.42.125.202'
+    Filers:  
+      ipv4_add: 'host_10.1.0.40 host_10.1.0.42 host_10.1.0.Deploy-Gatekeeper host_10.5.0.100 host_10.5.0.123 host_10.5.0.20 drsan01 drsan02'
